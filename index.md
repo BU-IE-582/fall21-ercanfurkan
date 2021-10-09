@@ -6,3 +6,5 @@ You can also visit my personal Github [Website](https://github.com/ercanfurkan).
 # Homework Assignments
 
 There will be several homework assignments done for this course.
+
+I changed it in local.
